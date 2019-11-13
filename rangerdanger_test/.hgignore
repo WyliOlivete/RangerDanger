@@ -1,0 +1,15 @@
+syntax: glob
+Library
+Temp
+Screenshot
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
+*.orig.meta
+*.db
+*.csproj
+*.unityproj
+.vs/
+.suo
